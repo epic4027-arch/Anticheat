@@ -24,4 +24,5 @@ offenses:
 
   toxic:
     reason: "Toxic behavior"
-
+esp:
+  reason:   "Esp/Hacking/UnFairAdvantage"
