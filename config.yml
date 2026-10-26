@@ -1,0 +1,27 @@
+messages:
+
+  title: "&cYou are banned from this server!"
+
+  banned-on: "&7Banned on: &c{date}"
+  banned-by: "&7Banned by: &c{staff}"
+  reason: "&7Reason: &c{reason}"
+  expires: "&7Expires in: &c{time}"
+
+  permanent: "&7You are &cpermanently &7banned!"
+
+date-format: "yyyy-MM-dd HH:mm:ss"
+
+offenses:
+
+  hacking:
+    reason: "Using hacks"
+
+  spam:
+    reason: "Spam"
+
+  abuse:
+    reason: "Staff abuse"
+
+  toxic:
+    reason: "Toxic behavior"
+
